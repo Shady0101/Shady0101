@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wasath Deminda</h1>
 <h3 align="center">A Python Student</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=790b76115b24636b09e0703ea30f8b8f55e3db25a34681a0&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shady0101&label=Profile%20views&color=0e75b6&style=flat" alt="shady0101" /> </p>
 
