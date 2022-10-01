@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **jayawardanawasath@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I have no idea what I'm doing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
